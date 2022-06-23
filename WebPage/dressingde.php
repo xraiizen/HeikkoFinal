@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="assets/css/widget.css">
+    <link rel="stylesheet" href="assets/css/clickAndDrag.css">
+    <title>Mon Dressing</title>
+</head>
+
+<body>
+    <?php require_once("assets/widgets/widget.php"); 
+    echo renderHeader(array('fa-solid fa-bell'));?>
+    <main>
+
+        <?php 
+             echo renderTopnav("Rechercher un vêtement");
+             echo renderTitleSectionWithLink('Mes outfits','Tout voir','#');
+            echo returnOutFitIntoSliderAndDrag();
+             echo renderTitleSectionWithLink('Mes Vêtements','Tout voir','#');
+            echo returnVetementIntoSliderAndDrag();
+            
+            ?>
+    </main>
+    <?php echo renderMenu("index","dressing","AjouterUnVetement","Calendrier","Profil");?>
+    <div class="space"></div>
+</body>
+<div class="space"></div>
+
+</html>
+<style>
+
+</style>

@@ -1,0 +1,20 @@
+div.conditions{
+    margin-top: 30px;
+    width: 100%;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+div.conditions input#conditions{
+    width: 20px;
+    height: 20px;
+}
+div.conditions label{
+   
+    width: 300px;
+    color: #284A80;
+    
+
+}
