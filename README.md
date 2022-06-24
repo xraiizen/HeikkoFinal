@@ -55,3 +55,14 @@ Malgré les concurrents type Vera, Veertus ou encore Stylebook, l’application 
 
 
 [Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
+
+## EXPÉRIENCE UTILISATEUR
+
+Après avoir conçu le user flow, on a commencé à réaliser les premiers wireframes de l’application. Fonctionnalités par fonctionnalitées, on a décliné sur Figma l’ensemble des pages afin d’obtenir un premier prototype utilisable pour réaliser nos premiers tests utilisateurs.
+Une fois cette première phase de conception réalisée et prototypé, nous avons réalisé les premiers tests utilisateurs au sein du groupe. Chacun à alors réalisé son propre test et retourné ce qui n’allait pas dans un tableau. Ces premiers tests utilisateurs nous ont permis de peaufiner le parcours utilisateurs et les informations de l’application.
+On a ensuite réalisé toutes les modifications retournées puis nous avons réalisé de nouveau des tests utilisateurs sur la v2 des wireframes afin d’obtenir une base solide pour passer à la conception graphique des interfaces.
+L’application depuis la page d’accueil, permet de visualiser la tenue programmée pour chaque jour, les tenues programmées pour les jours suivants de la semaine ainsi que ses tenues favorites.
+Un menu en bas de l’écran permet d’accéder aux dressings de l’utilisateur, au calendrier des tenues programmées, à son profil et réglages ainsi qu’aux fonctionnalités qui permet d’ajouter un vêtement, créer une tenue et de programmer une tenue.
+![image](https://user-images.githubusercontent.com/60423960/175508415-9c462078-67f0-4437-b885-32aa5f3b7911.png)
+
+
