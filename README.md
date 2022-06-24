@@ -7,7 +7,7 @@
   </h1>
 </a>
 
-[![Build Status - Cirrus]]
+![Build Status - Cirrus]
 
 Qui n’a jamais connu ces longs moments passés devant son armoire à chercher ce que l’on pourrait bien mettre aujourd’hui ? 
 Avec HEIKKO nous avons voulu solutionner ce problème, en créant une application de dressing virtuel. 
