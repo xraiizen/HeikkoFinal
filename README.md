@@ -6,9 +6,9 @@
     </picture>
   </h1>
 </a>
+
 [![Build Status - Cirrus][]][Build status]
-[![Discord badge][]][Discord instructions]
-[![Twitter handle][]][Twitter badge]
+[![Instagram handle][]][Instagram badge]
 
 Qui n’a jamais connu ces longs moments passés devant son armoire à chercher ce que l’on pourrait bien mettre aujourd’hui ? 
 Avec HEIKKO nous avons voulu solutionner ce problème, en créant une application de dressing virtuel. 
@@ -17,8 +17,8 @@ Le but étant de visualiser ses tenues avant même de les essayer et donc de gag
 
 ## Documentation
 
-* [PHP documentation]([https://flutter.dev/docs](https://www.php.net/docs.php))
-* [JS documentation]([https://github.com/flutter/flutter/wiki](https://devdocs.io/javascript/))
+* [PHP documentation](https://www.php.net/docs.php)
+* [JS documentation](https://devdocs.io/javascript/)
 
 ## About HEIKKO
 
