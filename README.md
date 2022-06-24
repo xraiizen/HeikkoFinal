@@ -28,8 +28,8 @@ Le but étant de visualiser ses tenues avant même de les essayer et donc de gag
 
 ## MACRO-FONCTIONNALITÉ
  
-1)    Je m’inscris et renseigne mes caractéristiques / je me connecte
-      Je personnalise mon bitmoji
+1)    * Je m’inscris et renseigne mes caractéristiques / je me connecte
+      * Je personnalise mon bitmoji
 
 2)    Je saisie mon vêtement (catégorie + photo)
       Je choisis une catégorie de vêtement 
