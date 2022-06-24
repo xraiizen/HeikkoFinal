@@ -31,18 +31,18 @@ Le but étant de visualiser ses tenues avant même de les essayer et donc de gag
 1)    * Je m’inscris et renseigne mes caractéristiques / je me connecte
       * Je personnalise mon bitmoji
 
-2)    Je saisie mon vêtement (catégorie + photo)
-      Je choisis une catégorie de vêtement 
-      Je sélectionne mes vêtements
+2)   * Je saisie mon vêtement (catégorie + photo)
+     * Je choisis une catégorie de vêtement 
+     * Je sélectionne mes vêtements
 
-3)    J’obtiens une tenue
-      J’enregistre ma tenue
-      Je catégorise mes tenues 
-      Je modifie la catégorie d’un vêtement ou d’une tenue
-      Je supprime une tenue 
-      Je regarde le temps qu’il va faire aujourd’hui grâce à un ‘’widget’’ météo intégré à l’application (background pattern en fonction du temps sur la vue du               bitmoji, activer désactiver dans les réglages, catégorie des tenues pour l’algorithme)
-      J’ai la possibilité de créer plusieurs dressings
-      Je programme mes tenues de la semaine que j'intègre dans un calendrier.
+3)   * J’obtiens une tenue
+     * J’enregistre ma tenue
+     * Je catégorise mes tenues 
+     * Je modifie la catégorie d’un vêtement ou d’une tenue
+     * Je supprime une tenue 
+     * Je regarde le temps qu’il va faire aujourd’hui grâce à un ‘’widget’’ météo intégré à l’application (background pattern en fonction du temps sur la vue du               bitmoji, activer désactiver dans les réglages, catégorie des tenues pour l’algorithme)
+     * J’ai la possibilité de créer plusieurs dressings
+     * Je programme mes tenues de la semaine que j'intègre dans un calendrier.
 
 
 ## ELEVATOR PITCH
