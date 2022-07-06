@@ -1,3 +1,7 @@
+<?php
+//include auth_session.php file on all user panel pages
+include("./models/auth_session.php");
+?>
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -21,7 +25,7 @@
         <div class="container">
             <div class="profil_header">
             <a href="#"><img class="img_arround" src="assets/img/contenu/img.jpg" alt="picture"></a>
-                <h1>Etienne</h1>
+                <h1><?php echo $_SESSION['username']; ?></h1>
         </div>
         <?php
         echo renderTitleSection(array("Informations Personnelles"));?>
@@ -49,6 +53,7 @@
                 <img src="assets/img/icons/Back_icon.png" alt="backicon">
             </div>
         </div>
+        <a href="logout.php"><input  class="inputAdd" type="button" value="Déconnection" style="background-color:#82251B;"></a>
         <?php
 
 
@@ -57,6 +62,16 @@
         </div>
     </main>
 </body>
+<?php
+function Logout(){
+    session_start();
+    // Destroy session
+    if(session_destroy()) {
+        // Redirecting To Home Page
+        header("Location: login.php");
+    }
+}
+?>
 
 </html>
 

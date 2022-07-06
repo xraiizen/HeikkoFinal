@@ -3,10 +3,11 @@
 $servername = "localhost";
 $database = "heikko";
 $username = "root";
-$password = "111198";
+$password = "";
+$port = "3308";
 
 // Create connection
-$GLOBALS['conn'] = new mysqli($servername, $username, $password, $database);
+$GLOBALS['conn'] = new mysqli($servername, $username, $password, $database, $port);
 
 // Check connection
 if ($conn->connect_error) {
